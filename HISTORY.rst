@@ -92,6 +92,8 @@ History
 - Added `Extended Surround` as new `audio_profile` possible value.
 - Added `EX` as new `audio_profile` possible value
 - Added `Opus` as new `audio_codec` possible value
+- Fixed unwanted language and country detection for exotic languages.
+- Added default and configurable list of allowed languages and countries
 
 2.1.4 (2017-06-01)
 ------------------
